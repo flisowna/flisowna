@@ -55,9 +55,6 @@ _2021 - Present_
 - French
 - (Certified Meta Front-End and Back-End Developer Professional, coursera.org)
 
-## More Than Just a Coder (aka "Things I Also Do") 
-- Architecture and Urban Development
-- Sustainability
 
 ## Want to Know More? 
-References available if you're curious enough to ask!
+Just ask.
