@@ -19,7 +19,7 @@ _Feb. 2023 - Present_
 ### NoCode
 **Federal Ministry of Education and Research Stipend, Remote**  
 _Sept. 2022 - Feb. 2023_  
-- Extended the Open Source NoCode platform nocodb.com. Who knew you could save the world without writing a single line of code?
+- Extended the Open Source NoCode platform nocodb.com.
 - Added GeoData and map views. Also, barcodes.  
 - Stack: vue.js/nuxt.js, node.js, Typescript  
 
@@ -32,7 +32,7 @@ _March 2022 - Aug. 2022_
 ### Freelance Endeavors
 **Freelancer, Berlin and Remote**  
 _2021 - Present_  
-- Created [talktome.games](https://www.talktome.games), an online game that helps you talk to conspiracy theorists without losing your mind.
+- Created [talktome.games](https://www.talktome.games), an online game that helps you talk to conspiracy theorists.
 
 ## Skill Set 🛠️
 - HTML, CSS, JS, Tailwind
