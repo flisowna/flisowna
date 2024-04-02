@@ -17,14 +17,14 @@ _Feb. 2023 - Present_
 - Customizing survey apps for our clients.
 
 ### NoCode
-**Federal Ministry of Education and Research Stipend, Remote**  
+**Federal Ministry of Education and Research Stipend**  
 _Sept. 2022 - Feb. 2023_  
 - Extended the Open Source NoCode platform nocodb.com.
 - Added GeoData and map views. Also, barcodes.  
 - Stack: vue.js/nuxt.js, node.js, Typescript  
 
 ### Boxtribute
-**Federal Ministry of Education and Research Stipend, Remote, Berlin, Serbia**  
+**Federal Ministry of Education and Research Stipend**  
 _March 2022 - Aug. 2022_  
 - Gave the Open Source Software "Boxtribute" a little facelift.
 - Added some features and conducted user research, both on-site and remotely.
