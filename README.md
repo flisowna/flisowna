@@ -5,16 +5,16 @@
 📧 ewa.agnieszka.flis@gmail.com  
 📞 +49 176 41511976  
 
-## Who Am I? 
-Hey, I'm Ewa! I write code. Currently sprinkling some of that coding magic at IWOP GmbH, focusing on sustainable organizational development and employee surveys.
+## About Me 
+I'm a fullstack developer based in Berlin, with a focus on sustainable projects and open-source software. Currently working at IWOP GmbH, specializing in employee surveys and organizational development.
 
-## My Coding Journeys 
+## Experience 
 
 ### IWOP
 **IWOP GmbH, Remote, Osnabrück**  
 _Feb. 2023 - Present_  
 - Crafting features for a PHP-Laravel app that's all about employee surveys.  
-- Customizing survey apps for our clients, because one size doesn't fit all.
+- Customizing survey apps for our clients.
 
 ### NoCode
 **Federal Ministry of Education and Research Stipend, Remote**  
@@ -53,12 +53,11 @@ _2021 - Present_
 - English
 - Italian
 - French
-- (Certified Meta Front-End Developer Professional, coursera.org)
+- (Certified Meta Front-End and Back-End Developer Professional, coursera.org)
 
 ## More Than Just a Coder (aka "Things I Also Do") 
 - Architecture and Urban Development
 - Sustainability
-- Climbing, Swing Dancing
 
 ## Want to Know More? 
 References available if you're curious enough to ask!
