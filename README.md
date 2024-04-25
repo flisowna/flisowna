@@ -10,7 +10,7 @@ I'm a fullstack developer based in Berlin, with a focus on sustainable projects 
 
 ## Experience 
 
-### IWOP
+### [IWOP]([url](https://iwop.eu/))
 **IWOP GmbH**  
 _Feb. 2023 - Present_  
 - Crafting features for a PHP-Laravel app that's all about employee surveys.  
@@ -20,14 +20,14 @@ _Feb. 2023 - Present_
 **Federal Ministry of Education and Research Stipend**  
 _Sept. 2022 - Feb. 2023_  
 - Extended the Open Source NoCode platform nocodb.com.
-- Added GeoData and map views. Also, barcodes.  
+- Introduced a Barcode column type and worked on prototypes for GeoData and map visualization support.  
 - Stack: vue.js/nuxt.js, node.js, Typescript  
 
 ### Boxtribute
 **Federal Ministry of Education and Research Stipend**  
 _March 2022 - Aug. 2022_  
 - Gave the Open Source Software "Boxtribute" a little facelift.
-- Added some features and conducted user research, both on-site and remotely.
+- Added features for mobile optimized improved inventory management and conducted user research, both on-site and remotely.
 
 ### Freelance Endeavors
 **Freelancer, Berlin and Remote**  
