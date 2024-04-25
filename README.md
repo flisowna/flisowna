@@ -10,8 +10,8 @@ I'm a fullstack developer based in Berlin, with a focus on sustainable projects 
 
 ## Experience 
 
-### [IWOP]([url](https://iwop.eu/))
-**IWOP GmbH**  
+### IWOP
+**[IWOP GmbH](https://iwop.eu/)**  
 _Feb. 2023 - Present_  
 - Crafting features for a PHP-Laravel app that's all about employee surveys.  
 - Customizing survey apps for our clients.
